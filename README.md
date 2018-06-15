@@ -23,6 +23,7 @@
 * Submit resume to epicenter
 * Start portfolio
 * Add experience and skills section in portfolio
+* Add Screenshots to readme in Bloc
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
