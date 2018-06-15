@@ -15,13 +15,14 @@
 * Add Doctor Search as a project on my Linkedin
 * Add screen shots to Doctor Search README Repo
 * Push Doctor Search project to GH-pages
-* add three projects to linkedin account
+* Add three projects to linkedin account
 * Wolf ceramics - update imgs in readme and push to ghpages
-* delete old github repositories
-* look for a portfolio template
-* work on making improvements to resume in indesign
-* submit resume to epicenter
-* start portfolio
+* Delete old github repositories
+* Look for a portfolio template
+* Work on making improvements to resume in indesign
+* Submit resume to epicenter
+* Start portfolio
+* Add experience and skills section in portfolio
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
