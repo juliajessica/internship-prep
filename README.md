@@ -21,6 +21,8 @@
 * look for a portfolio template
 * work on making improvements to resume in indesign
 * submit resume to epicenter
+* start portfolio
+
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
