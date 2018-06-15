@@ -9,6 +9,9 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
+## <span style="color:#74875d;">Completed List</span>
+* Add Readme's o Github repositories
+
 ## <span style="color:#74875d;">Known Bugs</span>
 
 _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work. :+1:_
