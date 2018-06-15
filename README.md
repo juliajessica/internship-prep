@@ -17,6 +17,7 @@
 * Push Doctor Search project to GH-pages
 * add three projects to linkedin account
 * Wolf ceramics - update imgs in readme and push to ghpages
+* delete old repositories
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
