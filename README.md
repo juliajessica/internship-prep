@@ -27,6 +27,7 @@
 * Upload new resume
 * Make Gh-pages for Hive repo
 * Finish Cover Letter
+* Link 6 projects to my portfolio and add images to them
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
