@@ -14,6 +14,7 @@
 * Add Readme's to Github repositories
 * Add Doctor Search as a project on my Linkedin
 * Add screen shots to Doctor Search README Repo
+* Push Doctor Search project to GH-pages
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
