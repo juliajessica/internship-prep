@@ -11,7 +11,8 @@
 
 ## <span style="color:#74875d;">Completed List</span>
 * Add Bloc to Linkedin Account
-* Add Readme's o Github repositories
+* Add Readme's to Github repositories
+* Add Doctor Search as a project on my Linkedin
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
