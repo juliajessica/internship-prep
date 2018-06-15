@@ -13,6 +13,7 @@
 * Add Bloc to Linkedin Account
 * Add Readme's to Github repositories
 * Add Doctor Search as a project on my Linkedin
+* Add screen shots to Doctor Search README Repo
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
