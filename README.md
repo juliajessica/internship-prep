@@ -20,7 +20,7 @@
 * delete old github repositories
 * look for a portfolio template
 * work on making improvements to resume in indesign
-
+* submit resume to epicenter
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
