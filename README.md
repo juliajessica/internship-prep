@@ -10,6 +10,7 @@
 </p>
 
 ## <span style="color:#74875d;">Completed List</span>
+* Add Bloc to Linkedin Account
 * Add Readme's o Github repositories
 
 ## <span style="color:#74875d;">Known Bugs</span>
