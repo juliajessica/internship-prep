@@ -17,7 +17,8 @@
 * Push Doctor Search project to GH-pages
 * add three projects to linkedin account
 * Wolf ceramics - update imgs in readme and push to ghpages
-* delete old repositories
+* delete old github repositories
+* look for a portfolio template
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
