@@ -24,6 +24,9 @@
 * Start portfolio
 * Add experience and skills section in portfolio
 * Add Screenshots to readme in Bloc
+* Upload new resume
+* Make Gh-pages for Hive repo
+* Finish Cover Letter
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
