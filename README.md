@@ -19,6 +19,7 @@
 * Wolf ceramics - update imgs in readme and push to ghpages
 * delete old github repositories
 * look for a portfolio template
+* work on making improvements to resume in indesign
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
