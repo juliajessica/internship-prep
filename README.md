@@ -19,28 +19,37 @@
 
 #### Is there anything about searching for and transitioning into your future career a technical field that you feel unprepared for? What would make you feel more comfortable and confident in this process?
 
+* I'd like to feel a little more comfortable talking about code with others and not stumbling over my words. I tend to feel nervous when I talk about things that I'm still not 100% comfortable with. I think it would be beneficial to continue verbally talk though my code and discuss my thought process with others.
+
+* I'm confident with my cover letter and resume but, I feel like I can fine tune discussing technical terms/languages/logic, etc... I have a tendency of feeling overwhelmed and not qualified so I want to make sure that I don't push myself too hard and feel more confident than anxious.
+
+## <span style="color:#74875d;">Task List: Plan</span>
+* Clean Up Github account
+* Add README's to GitHub Repositories
+* Create Gh-pages branch for all Repositories
+* Practice JS White Board Questions
 
 
 ## <span style="color:#74875d;">Completed List</span>
-* Add Bloc to Linkedin Account
-* Add Readme's to Github repositories
-* Add Doctor Search as a project on my Linkedin
-* Add screen shots to Doctor Search README Repo
-* Push Doctor Search project to GH-pages
-* Add three projects to linkedin account
-* Wolf ceramics - update imgs in readme and push to ghpages
-* Delete old github repositories
-* Look for a portfolio template
-* Work on making improvements to resume in indesign
-* Submit resume to epicenter
-* Start portfolio
-* Add experience and skills section in portfolio
-* Add Screenshots to readme in Bloc
-* Upload new resume
-* Make Gh-pages for Hive repo
-* Finish Cover Letter
-* Link 6 projects to my portfolio and add images to them
-
+* <strike>Add Bloc to Linkedin Account</strike>
+* <strike>Add Readme's to Github repositories</strike>
+* <strike>Add Doctor Search as a project on my Linkedin</strike>
+* <strike>Add screen shots to Doctor Search README Repo</strike>
+* <strike>Push Doctor Search project to GH-pages</strike>
+* <strike>Add three projects to linkedin account</strike>
+* <strike>Wolf ceramics - update imgs in readme and push to ghpages</strike>
+* <strike>Delete old github repositories</strike>
+* <strike>Look for a portfolio template</strike>
+* <strike>Work on making improvements to resume in indesign</strike>
+* <strike>Submit resume to epicenter</strike>
+* <strike>Start portfolio</strike>
+* <strike>Add experience and skills section in portfolio</strike>
+* <strike>Add Screenshots to readme in Bloc</strike>
+* <strike>Make Gh-pages for Hive repo</strike>
+* <strike>Finish Cover Letter</strike>
+* <strike>Link 6 projects to my portfolio and add images to them</strike>
+* <strike>Submit Resume & Linkedin to Epicenter</strike>
+* Send out Emails for Internships
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
