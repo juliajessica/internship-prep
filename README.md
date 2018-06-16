@@ -28,7 +28,7 @@
 * Add README's to GitHub Repositories
 * Create Gh-pages branch for all Repositories
 * Practice JS White Board Questions
-* Write another blog post
+* Write another blog post on responsive design
 * Continue with my React Udemy Course
 
 ## <span style="color:#74875d;">Completed List</span>
