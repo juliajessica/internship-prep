@@ -15,7 +15,7 @@
 
 * I think I could use go over a few of terms we've learned over the last few months and refresh the use the terminology as I discuss code with other students and teachers.
 
-* I also think I could use a little more JS Practice such as doing more white boarding and problem solving.
+* I also think I could use a little more practice writing more algorithmic logic such as doing more white-boarding and problem solving.
 
 #### Is there anything about searching for and transitioning into your future career a technical field that you feel unprepared for? What would make you feel more comfortable and confident in this process?
 
@@ -28,7 +28,8 @@
 * Add README's to GitHub Repositories
 * Create Gh-pages branch for all Repositories
 * Practice JS White Board Questions
-
+* Write another blog post
+* Continue with my React Udemy Course
 
 ## <span style="color:#74875d;">Completed List</span>
 * <strike>Add Bloc to Linkedin Account</strike>
@@ -49,11 +50,16 @@
 * <strike>Finish Cover Letter</strike>
 * <strike>Link 6 projects to my portfolio and add images to them</strike>
 * <strike>Submit Resume & Linkedin to Epicenter</strike>
-* Send out Emails for Internships
+* <strike>Send out Emails for Internships</strike>
 
-## <span style="color:#74875d;">Known Bugs</span>
 
-_Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work. :+1:_
+## <span style="color:#74875d;">Reflection & Next Steps</span>
+
+I feel very confident that I'm caught up with most of my to-do list and ready for the next track. I've already received two emails back about internships and even though they're not positive leads, they are still connections and possible future opportunities.
+
+I'm finished with my resume, cover letter, Linkedin account, 80% Github account, still working on my React Udemy Course.
+
+
 
 ### <span style="color:#74875d;">License</span>
 
