@@ -9,6 +9,18 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
+
+## <span style="color:#74875d;">Self Assessment</span>
+#### Is there anything about the general job search and internship interview process you feel unprepared for? What would make you feel more comfortable and confident in your job search and internship interviews?
+
+* I think I could use go over a few of terms we've learned over the last few months and refresh the use the terminology as I discuss code with other students and teachers.
+
+* I also think I could use a little more JS Practice such as doing more white boarding and problem solving.
+
+#### Is there anything about searching for and transitioning into your future career a technical field that you feel unprepared for? What would make you feel more comfortable and confident in this process?
+
+
+
 ## <span style="color:#74875d;">Completed List</span>
 * Add Bloc to Linkedin Account
 * Add Readme's to Github repositories
