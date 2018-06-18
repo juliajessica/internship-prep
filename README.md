@@ -51,7 +51,7 @@
 * <strike>Submit Resume & Linkedin to Epicenter</strike>
 * <strike>Send out Emails for Internships</strike>
 * <strike>Write another blog post on responsive design</strike> http://gallantandsuch.com/3-easy-steps-for-responsive-web-design/
-
+* <strike>Finish Portfolio</strike> https://juliajessica.github.io/juliajessica/
 
 ## <span style="color:#74875d;">Reflection & Next Steps</span>
 
